@@ -1,0 +1,1 @@
+Sebuah bifrustum n-agon adalah sebuah polihedron yang terdiri dari tiga satah selari n-agon, dengan satah tengah yang terbesar dan biasanya kongruen atas dan bawah. Ia dapat dibina sebagai dua frustum kongruen yang digabungkan melalui sebuah satah simetri, dan juga sebagai bipiramid dengan dua bucu kutub dipenggal.

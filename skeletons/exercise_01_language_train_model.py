@@ -30,20 +30,16 @@ docs_train, docs_test, y_train, y_test = train_test_split(
 
 # TASK: Build a vectorizer that splits strings into sequence of 1 to 3
 # characters instead of word tokens
-class CountVectorizer:
-	
-	def __init__:
-		self.vectDict = {}
-	def getSeqWords(data, vectDict):
-		for j in range(1,4):	
-			for i in range(0,len(data),j):
-				get(vectDict[data[i:i+j]],0) += 1:
-			
-	def fit(dataset):
-		for i in range(len(data)):
-			self.vectDict[i] = {}
-			getSeqWords(eachData, self.vectDict[i])
-		print self.vectDict 
+vectDict = {}
+def getSeqWords(data, vectDict):
+	for j in range(1,4):	
+		for i in range(0,len(data),j):
+			get(vectDict[data[i:i+j]],0) += 1:
+def fit(dataset):
+	for i in range(len(data)):
+		vectDict[i] = {}
+		getSeqWords(eachData, vectDict[i])
+	print vectDict 
 
 
 # TASK: Build a vectorizer / classifier pipeline using the previous analyzer

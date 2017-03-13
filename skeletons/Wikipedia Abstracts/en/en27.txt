@@ -1,0 +1,1 @@
+fvs_acl_xattr is an experimental VFS-module of Samba. It stores NTFS Access Control Lists (ACLs) in Extended Attributes (EAs), this improves compatibility with Windows ACLs.

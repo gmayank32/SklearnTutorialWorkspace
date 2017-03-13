@@ -1,0 +1,1 @@
+Ël PCI (Peripheral Component Interconnect) a l'é un Bus ëd conession con banda ëd 32 bit e frequensa operativa standard ëd 33 MHz. A l'é un Bus con arzòrse ëd tipo condivis tra le perifériche ch'a ven-o colegà a chiel. A l'é stàit dovrà com schema ëd comunicassion për le schede gràfiche fin a l'antrodussion dël Bus AGP.
