@@ -1,1 +1,0 @@
-Pengaturcaraan kefungsian ialah sebuah paradigma pengaturcaraan yang berpusatkan konsep fungsi. Contoh bahasa pengaturcaraan yang mengetengahkan paradigma ini ialah LISP, ML, dan Haskell.

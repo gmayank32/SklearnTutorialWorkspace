@@ -1,1 +1,0 @@
-Sip NMS is a web based network management tool which uses SIP (session initiation protocol) to monitor remote nodes. sipnms is a web-based network management tool which uses SIP (Session Initiation Protocol) to monitor remote nodes.
