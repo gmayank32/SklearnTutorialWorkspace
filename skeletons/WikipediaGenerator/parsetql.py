@@ -10,7 +10,8 @@ for file in datasetfiles:
 	g.parse(file, format='nt')
 	dirName = re.search('(?<=\_)[a-z]+(?=\.nt)', file)
 	dirName = dirName.group(0)
-	print dirName
+	if not os.path.exists('../WikipediaAbstracts'):
+		os.mkdir('../WikipediaAbstracts')
 	if not os.path.exists('../WikipediaAbstracts/'+dirName):
 		os.mkdir('../WikipediaAbstracts/' + dirName)
 	counter = 0
